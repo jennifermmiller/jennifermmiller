@@ -35,7 +35,7 @@ const jen = {
       devOPs: ['Docker', 'Nginx']
     }
   },
-  funFact: 'There are 710 coding languages around the world.',
+  funFact: 'There are 710 coding languages around the world. (per Wikipedia)',
   quote: 'Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - Martin Golding',
   movingForward: 'Casually looking for new opportunities for growth'
 };
